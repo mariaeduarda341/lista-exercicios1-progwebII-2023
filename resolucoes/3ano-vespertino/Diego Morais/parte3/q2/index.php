@@ -39,7 +39,7 @@ $valor = $_POST["valor"] ?? 7;
                
               $mult = 1;
               $cont = 1;
-              
+              $calculo;
               while($cont < 5){
     
               $calculo = $valor * $mult;
